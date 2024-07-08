@@ -1,2 +1,4 @@
-package com.sample.demo;public class MyFirstService {
+package com.sample.demo;
+
+public class MyFirstService {
 }

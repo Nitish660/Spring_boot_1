@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64336db4-d6b9-483a-9041-cc0bf2ce8fc6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Basic-Banking-App/src/main/java/com/Banking/Basic/Basic/Banking/App/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basic-Banking-App/src/main/java/com/Banking/Basic/Basic/Banking/App/controller/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic-Banking-App/src/main/java/com/Banking/Basic/Basic/Banking/App/dto/AccountDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basic-Banking-App/src/main/java/com/Banking/Basic/Basic/Banking/App/dto/AccountDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic-Banking-App/src/main/java/com/Banking/Basic/Basic/Banking/App/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basic-Banking-App/src/main/java/com/Banking/Basic/Basic/Banking/App/entity/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic-Banking-App/src/main/java/com/Banking/Basic/Basic/Banking/App/repository/AccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basic-Banking-App/src/main/java/com/Banking/Basic/Basic/Banking/App/repository/AccountRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basic-Banking-App/src/main/java/com/Banking/Basic/Basic/Banking/App/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basic-Banking-App/src/main/java/com/Banking/Basic/Basic/Banking/App/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/sample/demo/MyFirstService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/sample/demo/MyFirstService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../journalApp 2/src/main/java/com/engineeringdiest/journalApp/controller/HealthCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../journalApp 2/src/main/java/com/engineeringdiest/journalApp/controller/HealthCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../journalApp 2/src/main/java/com/engineeringdiest/journalApp/controller/JournalEntryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../journalApp 2/src/main/java/com/engineeringdiest/journalApp/controller/JournalEntryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../journalApp 2/src/main/java/com/engineeringdiest/journalApp/entity/JournalEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../journalApp 2/src/main/java/com/engineeringdiest/journalApp/entity/JournalEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../journalApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../journalApp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../journalApp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../journalApp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../journalApp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../journalApp/src/main/java/com/digest/journalApp/JournalApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../journalApp/src/main/java/com/digest/journalApp/controller/HealthCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../journalApp/src/main/java/com/digest/journalApp/controller/JournalEntryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../journalApp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../journalApp/src/test/java/com/digest/journalApp/JournalAppApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ijOnqCRyToSnITxbNrdn7EU2BQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/nitishsah/Desktop/Spring Boot/Spring-DATA-JPA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora_aws",
+      "postgresql",
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SpringDataJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Spring-DATA-JPA" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Spring.DATA.JPA.Spring.DATA.JPA.SpringDataJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64336db4-d6b9-483a-9041-cc0bf2ce8fc6" name="Changes" comment="" />
+      <created>1720000689709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720000689709</updated>
+      <workItem from="1720000690816" duration="1445000" />
+      <workItem from="1720002682416" duration="2666000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
